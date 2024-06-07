@@ -13,3 +13,4 @@
 ## Salvar novamente no github 3:23 PM
 
 * comando git pull
+* comando git fetch
